@@ -71,7 +71,7 @@ _ensure_silence_file()
 
 
 #业务与音频参数
-ALIYUN_API_KEY = "sk-0f49b926f93340af9e83bbceac03adef"
+ALIYUN_API_KEY = "************************"  #填入自己的API密钥
 dashscope.api_key = ALIYUN_API_KEY
 
 
